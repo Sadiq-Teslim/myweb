@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 10px;
+}
+.h3{
+    text-align: center;
+    color: greenyellow;
+    font-size: 30px;
+    font-weight: bold;
+}
+div{
+    margin-left: 200px;
+    padding: 70px;
+    margin: auto;
+    text-align: center;
+    border-right: -10px;
+    background-color: chartreuse;
+    color: blue;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{background-color: forestgreen;
+}
+button{
+       width: 100px;
+       background-color: lawngreen;
+       color:green;
+       border-radius: 7px;
+       text-decoration: none;
+}
+input{
+    border-radius: 5px;
+    width: 200px;
+
+}

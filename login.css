@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: chartreuse;
+    color: blue;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: rgb(58, 58, 51);
+    word-spacing: 5px;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+.dIv{
+    /* border: 1px solid black; */
+    padding: 10px;
+    text-align: center;
+    color: rgb(66, 61, 9);
+}
+img{
+    height: 150px;
+    width: 130px;
+    border-radius: 110px;
+}
+.h{
+    margin-left: 50px;
+    text-align: center;
+}
+.look{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkorange;
+    letter-spacing: 2px;
+}
+button{
+    text-decoration: none;
+    border-radius: 5px;
+    color: royalblue;
+    background-color: chartreuse;
+}
